@@ -4,6 +4,7 @@
     "network": {
       "allowedDomains": [
         "ui.shadcn.com",
+        "shadcn.com",
         "www.cult-ui.com"
       ]
     }
